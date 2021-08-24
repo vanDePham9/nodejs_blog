@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\json_server"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Lesson1",
+		"liveServer.settings.ignoreFiles": [
+			".vscode/**",
+			"**/*.scss",
+			"**/*.sass",
+			"**/*.ts"
+		]
+	}
+}
