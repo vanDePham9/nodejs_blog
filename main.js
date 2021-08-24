@@ -1,15 +1,15 @@
 
 
-// var language = [
-//     'Javascript',
-//     'HTML',
-//     'CSS',
-//     'NodeJs',
-//     'ExpressJs',
-//     null,
-//     undefined,
-//     0,
-// ];
+var language = [
+    'Javascript',
+    'HTML',
+    'CSS',
+    'NodeJs',
+    'ExpressJs',
+    null,
+    undefined,
+    0,
+];
 
 // var secondLanguage = [
 //     'c++',
